@@ -15,6 +15,10 @@ public class Student {
         return (math > english) ? math : english;
     }
 
+    public int getAverage() {
+        return (math + english) / 2;
+    }
+
     public void print() {
         System.out.println(name + "\t" + english + "\t" + math);
     }
