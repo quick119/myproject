@@ -28,7 +28,6 @@ public class Tester {
         //practice juDate
 //        practiceJuDate();
     }
-
     private static void practiceJuDate() {
         Date date = new Date();
         System.out.println(date);
