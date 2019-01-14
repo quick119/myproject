@@ -8,13 +8,13 @@ public class Hello {
         p.heihgt = 1.7f;
         System.out.println(p.bmi());
         /*int age = 19;
-        Integer age2 = 33;  包裝類別 Wrapper class
+        Integer age2 = 33;  //包裝類別 Wrapper class
         char c = 'A';
         Character c2 = 'a';
         byte b = 120;
-        float weight = 66.5f;   Float
-        double height = 1.7;    Double
-        boolean adult = false;  Boolean
+        float weight = 66.5f;   //Float
+        double height = 1.7;    //Double
+        boolean adult = false;  //Boolean
         boolean enroll = true;
         String name = "Hank";*/
     }

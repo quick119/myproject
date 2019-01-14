@@ -1,5 +1,7 @@
 package com.kotlin
 
+import java.util.*
+
 fun main(args: Array<String>) {
 
 }
@@ -16,6 +18,15 @@ class Deck {
         initial()
 //        print()
     }
+
+   /* fun shuffle() {
+        for (n in cards.withIndex()) {
+            val r = Random().nextInt(52)
+            cards[i] = cards[r].also {
+                cards[r] = cards[i]
+            }
+        }
+    }*/
 
     fun print() {
         println()

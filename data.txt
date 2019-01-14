@@ -1,0 +1,8 @@
+這是一門高度技術導向的課程，適合已具備很完整的 Android 開發能力，課程使用 Firebase 雲端技術從零到上架，開發出無伺服器的連線賓果遊戲 APP。使用 Firebase 中的 Authentication、Realtime Database。
+
+具備 Android 基礎能力後才能獲得較好的效益。
+此課程適合哪些人：
+
+    已具備 Android 開發能力，想知道如何運用 Firebase 雲端技術
+    想利用 Firebase 雲端技術開發 Android APP
+    想認識 Firebase 的雲端即時資料庫
