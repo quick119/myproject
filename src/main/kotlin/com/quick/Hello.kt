@@ -5,7 +5,11 @@ fun main(args: Array<String>) {     //main方法可以在最外層
 
     val h = Human(weight = 66.5f, height = 1.7f)              //建構物件的方法，叫做建構子
     h.hello()
-    print(h.bmi())
+    println(h.bmi())
+    val score = 88
+    println(score > 60)
+    val c : Char = 'A'
+    println(c.toInt() > 60)
     /*val age = 19 //自動推斷資料型態為Int(val age : Int = 19), val為常數 不能再給別的值
     var age1 =20 //var為變數值，可以改變
     var name :String //用冒號來指定資料型態, 只定義不給值的話必須設定資料型態

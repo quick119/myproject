@@ -7,6 +7,10 @@ public class Hello {
         p.weight = 66.5f;       //呼叫這個類別身上的什麼方法或資料
         p.heihgt = 1.7f;
         System.out.println(p.bmi());
+        int score = 88;
+        System.out.println(score < 80 || score > 90);
+        char c = 'A';
+        System.out.println(c > 'a');
         /*int age = 19;
         Integer age2 = 33;  //包裝類別 Wrapper class
         char c = 'A';
